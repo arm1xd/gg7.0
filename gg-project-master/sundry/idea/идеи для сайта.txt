@@ -16,3 +16,9 @@ anim
 1 кнопка для входа в магаз
 2 выпады элементов
 3
+
+
+
+
+
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_line
